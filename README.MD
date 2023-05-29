@@ -1,5 +1,4 @@
 ### Modelo React JS Roter V6
-
 * Criando projeto
 ```sh
     npm create vite@latest
@@ -8,12 +7,10 @@
 ```sh
     npm install
 ```
-
 ### Proposta Inicial 3 Rotas
 * [] Home /
 * [] Login /login
 * [] Register /register
-
 ## Diretorios
 ### src
     * styles
@@ -29,20 +26,16 @@
     * services
         routerApp
         themeContext
-
 ### Dependências
-
-* React Styled-Components
+* React Styled-Components versão 5.3
 ```sh
-    npm install --save react-styled-components
+    npm install --save styled-components
 ```
-
-* React Router Versão 6.11
+* React Router versão 6.11
 ```sh
     npm install --save react-router-dom@6.11
 ```
-
-* React Icons
+* React Icons versão 4.9
 ```sh
     npm install --save react-icons
 ```
