@@ -23,6 +23,8 @@
         register
     * components
         NavBar
+        Toggle
+        Header
     * services
         routerApp
         themeContext
