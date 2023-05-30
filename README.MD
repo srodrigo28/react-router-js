@@ -45,3 +45,20 @@
 ```sh
     npm install --save react-icons
 ```
+
+### Referências
+* UseState Batisti
+```sh
+https://www.youtube.com/watch?v=3m3UaEvQkhQ
+```
+```sh
+https://www.youtube.com/watch?v=keEUn64Ceig&t=227s
+```
+* UseContext Batisti
+```sh
+https://www.youtube.com/watch?v=OLtpJLQLOeM&t=813s
+```
+* Udemy Curso Batisti
+```sh
+https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/learn/lecture/31201744#overview
+```
