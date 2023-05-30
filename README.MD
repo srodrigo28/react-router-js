@@ -7,6 +7,10 @@
 ```sh
     npm install
 ```
+* Startar o projeto
+```sh
+    npm run dev
+```
 ### Proposta Inicial 3 Rotas
 * [] Home /
 * [] Login /login
